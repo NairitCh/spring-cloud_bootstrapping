@@ -25,6 +25,7 @@ public class PerfectPower {
                 }
             }
         }
+        System.out.println("Perfect Square is :");
         System.out.println(p);
 	} 
 }
